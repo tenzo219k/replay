@@ -1,4 +1,4 @@
-import { stringify } from '../../lib/main.js';
+ ysuplento)import { stringify } from '../../lib/main.js';
 
 import Extension from './extension.js';
 
